@@ -35,7 +35,7 @@ The graph used in this script is a simplified representation of the map of Roman
 
 Graph:
 <div id="header" align="center">
-  <img src="https://files.passeidireto.com/11663385-7d41-4b2d-b6e4-3c1cd985cc41/bg5.png" width="100"/>
+  <img src="https://files.passeidireto.com/11663385-7d41-4b2d-b6e4-3c1cd985cc41/bg5.png" width="500"/>
 </div>
 
 If you want to change the graph in use just add the coordinates of your map to the graph function in main in the following format:
