@@ -34,9 +34,11 @@ Follow the prompts to select an algorithm and provide the starting location and 
 The graph used in this script is a simplified representation of the map of Romania, as described in the book "Artificial Intelligence: A Modern Approach" by Stuart Russell and Peter Norvig. It contains cities as nodes and the distances between them as edges.
 
 Graph:
+
 <div id="header" align="center">
   <img src="https://files.passeidireto.com/11663385-7d41-4b2d-b6e4-3c1cd985cc41/bg5.png" width="500"/>
 </div>
+
 
 If you want to change the graph in use just add the coordinates of your map to the graph function in main in the following format:
 
